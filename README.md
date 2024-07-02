@@ -12,7 +12,7 @@ Instructions:
 
   build\Debug\ray_tracing.exe >> image.ppm
 
-It should produce a nice image as below:
+It should produce an image as below:
 
 ![image](https://github.com/tqv-notes/ray_tracing/blob/main/image.jpg)
 
