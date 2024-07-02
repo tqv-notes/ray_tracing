@@ -4,11 +4,11 @@ Instructions:
 
 1. Use CMake for debug build
 
-cmake -B build
-cmake --build build
+  cmake -B build
+  cmake --build build
 
 2. Run the built program as:
 
-build\Debug\ray_tracing.exe >> image.ppm
+  build\Debug\ray_tracing.exe >> image.ppm
 
 
