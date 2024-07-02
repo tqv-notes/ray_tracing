@@ -5,6 +5,7 @@ Instructions:
 - Use CMake for debug build
 
   cmake -B build
+
   cmake --build build
 
 - Run the built program as:
