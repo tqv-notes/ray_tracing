@@ -1,4 +1,4 @@
-The main purpose of this code is to learn about ray tracing. It is based on the lectures of Peter Shirley et al.
+The main purpose of this code is (for me) to learn about ray tracing. It is based on the lectures of Peter Shirley et al.
 
 Instructions:
 
