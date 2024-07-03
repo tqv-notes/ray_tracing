@@ -10,7 +10,7 @@ Instructions:
 
 - Run the built program as:
 
-  build\Debug\ray_tracing.exe >> image.ppm
+  build\Debug\ray_tracing.exe > image.ppm
 
 It should produce an image as below:
 
